@@ -1,0 +1,24 @@
+{
+  "name": "ez-mcp-example",
+  "version": "1.0.0",
+  "description": "mcp-example/ │ ├─ server.js ├─ client.js └─ package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galoberlyn/ez-mcp-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/galoberlyn/ez-mcp-example/issues"
+  },
+  "homepage": "https://github.com/galoberlyn/ez-mcp-example#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.27.1"
+  }
+}
